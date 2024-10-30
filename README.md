@@ -9,3 +9,6 @@ and enhancing site functionality.
 
 ⭐Technologies Used: React, React-Router-DOM, Framer Motion, Tailwind CSS, HTML5, CSS3, JavaScript,
 responsive design principles
+
+
+![Screenshot (32)](https://github.com/user-attachments/assets/b13cc7bc-031c-48b0-93ea-0b2c5becdaa2)
