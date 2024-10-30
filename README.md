@@ -12,3 +12,6 @@ responsive design principles
 
 
 ![Screenshot (32)](https://github.com/user-attachments/assets/b13cc7bc-031c-48b0-93ea-0b2c5becdaa2)
+
+
+![Screenshot (34)](https://github.com/user-attachments/assets/fea3497d-1a2e-4200-96f1-72a07723bb68)
