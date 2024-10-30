@@ -1,8 +1,8 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+FASHION STORE
+⭐Description Developed an e-commerce website using React, Redux Toolkit, and Tailwind CSS to provide a
+seamless shopping experience. Implemented features such as product listings, a shopping cart, ensuring a
+user-friendly interface and responsive design.
+⭐Utilized a fake API hosted on GitHub to dynamically fetch product data, simulating real-world interactions
+and enhancing site functionality.
+⭐Technologies Used: React, React-Router-DOM, Framer Motion, Tailwind CSS, HTML5, CSS3, JavaScript,
+responsive design principles
